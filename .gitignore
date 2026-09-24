@@ -13,3 +13,4 @@ CMakeCache.txt
 
 .vscode/ipch/
 .vscode/.browse.VC.db
+.DS_Store
